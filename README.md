@@ -1,14 +1,14 @@
 ## EventX Frontend
 This is just the repository for the frontend of the EventX Dapp.
 
-Please go here for the backend part: https://github.com/Gungz/eventx-backend
+Please go here for the backend part: https://github.com/Gungz/EventX-Backend.
 
-You can follow the scaffold steps below to run the app locally.
+You can follow the steps under section <strong>Scaffold FCL NextJS Dapp</strong> to run the app locally either using the backend that I have deployed or using your backend after you deploy the backend part, I don't run the backend locally.
 
-The configuration to the backend (API Gateway for Kintone and Lambda Function URL for Redis) can be found in `next.config.js`, feel free to deploy the backend and change the URL to your environment or you can use the backend which I currently deploy. 
+The configuration to the backend (API Gateway for Kintone and Lambda Function URL for Redis) can be found in `next.config.js`.
 
 
-
+## Scaffold FCL NextJS Dapp
 This is a scaffold for an FCL NextJS Dapp on the Flow Blockchain.
 
 ## Features Provided
